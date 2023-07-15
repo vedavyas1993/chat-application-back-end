@@ -1,0 +1,22 @@
+{
+  "name": "chat-application-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedavyas1993/chat-application-back-end.git"
+  },
+  "author": "vedavyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedavyas1993/chat-application-back-end/issues"
+  },
+  "homepage": "https://github.com/vedavyas1993/chat-application-back-end#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
